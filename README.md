@@ -1,4 +1,4 @@
-# Aim-Game
+# Aim Game
 A fun game to train your aim and pass time ;)
 
 Main Script is "Aim Game.py"
